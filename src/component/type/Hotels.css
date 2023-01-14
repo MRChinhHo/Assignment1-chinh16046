@@ -1,0 +1,36 @@
+.class-list1{
+    margin-left: 22%;
+}
+.conten3d{
+    display: flex;
+    width: 95%;
+    height: 60%;
+}
+.conten3b{
+    display: flex;
+    width: 800px;  
+}
+.conten3c{
+    width: 800px;  
+    margin-top: 30px;
+}
+.conten3f{
+    margin-top: 10px;
+    color: burlywood;
+}
+.conten3e{
+    text-decoration: underline;
+    color: blue;
+    margin-top: 20px;
+}
+.conten3h{
+    padding-top: 10px;
+}
+.conten3g{
+    margin-top: 10px;
+}
+.conten3s{
+    background-color: blue;
+    color: aliceblue;
+    border:5px solid blue;
+}

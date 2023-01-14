@@ -1,0 +1,36 @@
+
+    .nav {
+     background-color: #003580; 
+        color: white;
+        position: absolute;
+        margin-top: 3%;
+        /* justify-content: left; *\
+        /* margin-top: 150px; */
+       left: 22%;
+      }
+      
+.navList {
+    display: flex;
+    gap: 40px;
+  }
+  
+  .navListItem {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .navListItem.active {
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+   
+    
+  }
+  
+  .navListItem a {
+    text-decoration: none;
+  }
+  
+  
+ 

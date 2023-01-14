@@ -1,0 +1,43 @@
+.list{
+    background-color: #003580; 
+    color: white;
+  display: flex;
+   width: 100%;
+}
+.list-content{
+    justify-content: right;
+    margin-left: 22%;
+    margin-bottom: 60px;
+}
+.list-content1{
+    margin-top: 40px;
+}
+.list-content2{
+    margin-top: 10px;
+}
+.sign{
+    margin-top: 20px;
+    display: flex; 
+}
+.headerSearch{
+    display: flex; 
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 25%;
+    color:lightgray;
+    justify-content: center;
+    
+    
+    border: 3px solid rgb(189, 189, 8);
+    width: 730px;
+    height: 30px;
+    background-color: aliceblue;
+    
+    
+}
+.headerSearchItem{
+    padding-right: 10px;
+    
+}
+
+

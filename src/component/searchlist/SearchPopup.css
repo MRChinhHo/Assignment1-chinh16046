@@ -1,0 +1,69 @@
+.item2{
+ margin-left: 4%;
+ margin-top: 10px;
+}
+.class-Popup{
+    background-color: rgba(255, 196, 0, 0.897);
+    border-radius: 10px;
+}
+.Popup111{
+    margin-left: 1%; 
+    margin-top: 10px;
+}
+.Popup1{
+    margin-left: 1%; 
+    margin-top: 5px;
+}
+.Popup3{
+    margin-left: 1%; 
+    margin-top: 6px;
+}
+
+.Popup2{
+   color: green; 
+   margin-left: 1%;
+   margin-top: 3px;
+}
+
+.Popup122{
+    width: 230px;
+    height: 25px;
+    margin-left: 2%;
+}
+.class-item{
+    width: 300px;
+}
+.lsOptionInput{
+    width: 50px;
+    height: 17px;
+    margin-left: 40px;
+}
+.lsOptionInput1{
+    width: 50px;
+    height: 15px;
+    margin-left: 129px;
+}
+.lsOptionInput2{
+    width: 50px;
+    height: 15px;
+    margin-left: 106px;
+}
+.lsOptionInput3{
+    width: 50px;
+    height: 15px;
+    margin-left: 125px;
+}
+.class-Popup{
+    border: 1px solid rgb(82, 67, 67);
+    width:250px
+}
+.item7{
+    width: 240px;
+    margin-left: 1%;
+    margin-top: 7px;
+    margin-bottom: 20px;
+    height: 40px;
+   background-color: blue;
+   border:1px solid blue;
+   color: aliceblue;
+}

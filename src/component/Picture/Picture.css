@@ -1,0 +1,26 @@
+.img3{
+    display: flex;
+    width: 800px;
+   
+    margin-left: 22%;
+    margin-top: 50px;
+}
+.img2{
+
+    display: flex;
+  
+    width: 90%;
+    border-radius: 5%;
+}
+.conten{
+    color: aliceblue;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 1%;
+}
+.conten1{
+    margin-left: 1%;
+    position: absolute;
+    margin-top: 200px;
+    color: aliceblue;
+}

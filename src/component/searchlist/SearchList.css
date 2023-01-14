@@ -1,0 +1,95 @@
+.class-search1{
+    display: flex;
+    border: 1px solid rgb(82, 67, 67);
+    width:850px
+}
+.class-search21{
+   width: 200px;
+   height: 250px;
+}
+.class-search2{
+  display: flex; 
+  width: 600px; 
+}
+.class-search200{
+    margin-left: 10px;
+  }
+  .class-search22{
+    color: blue;
+    margin-top: 5px;
+  }
+  .class-search23{
+    margin-top: 10px;
+  }
+  .class-search24{
+    margin-top: 10px;
+    color: aliceblue;
+    border:5px solid green;
+    background-color: green;
+    width: 38%;
+    border-radius: 5px;
+  }
+  .class-search25{
+    margin-top: 10px;
+  }
+  .class-search26{
+    margin-top: 10px;
+    
+  }
+  .class-search27{
+    margin-top: 10px;
+    color: green;
+  }
+  .class-search28{
+    margin-top: 10px;
+    color: green;
+    font-size: 0.8em;
+  }
+  .class-search3{
+    text-align: end;
+   border-right: 2%;
+   margin-left: 25px;
+    width: 200px;
+  }
+  .class-search31{
+    margin-top: 10px;
+ 
+  margin-right: none;
+    color: brown;
+   
+
+  }
+  .class-search32{
+   color: white;
+  background-color: blue;
+  border: 3px solid blue;
+    margin-top: 10px;
+  }
+  .class-search33{
+  margin-top: 80px;
+      
+  }
+  .class-search30{
+    display: flex;
+    justify-content: space-between;
+}
+
+.class-search35{
+  margin-top: 10px;
+ background-color: blue;
+ color: aliceblue;
+ padding: 8px;
+ border-radius: 7px;
+ width: 200px;
+}
+.class-cotrol{
+  display: flex;
+}
+.class-coler{
+  width: 330px;
+  margin-left: 10%;
+}
+
+  
+
+

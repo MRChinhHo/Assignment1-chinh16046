@@ -1,0 +1,28 @@
+.class-form{
+    text-align: center;
+    background-color:#003580;
+    margin-top: 40px;
+    height: 200px;
+}
+.conten4a{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: aliceblue;
+}
+.conten4b{
+    padding-bottom: 15px;
+    color: aliceblue;
+}
+.conten4d{
+    height: 30px;
+    border-radius: 5%;
+    margin-right: 5px;
+}
+.conten4e{
+ height: 30px;
+  background-color: rgb(74, 99, 211);
+  border:7px solid rgb(74, 99, 211);
+  color: aliceblue;
+  border-radius: 10%;
+  
+}
